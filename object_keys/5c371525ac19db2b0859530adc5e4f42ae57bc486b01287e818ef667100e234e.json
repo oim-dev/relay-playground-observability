@@ -1,0 +1,10 @@
+{
+  "deleted": 0,
+  "id": "allocated:[\"968e8bc5bd06a4d56435711f2f360e40c67ccee21ebf4583f1faf8814b46f59e\",\"33af8a0f-9155-48c6-8870-4cda9f25b9dc\",\"address-assignment\",\"DOC-1\"]",
+  "is_current": 1,
+  "owner_id": "33af8a0f-9155-48c6-8870-4cda9f25b9dc",
+  "parents_json": "[]",
+  "position": "V",
+  "ref": "DOC-1",
+  "version": "bab21962edd45e643240c94509f15aebdb5ce1d7758dfefe2a50e7d12897f5ae"
+}

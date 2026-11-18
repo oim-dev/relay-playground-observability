@@ -1,0 +1,5 @@
+{
+  "proofs_json": "[{\"digest\":\"19efd8c3adbdc7540537d3617046dc3f5bd3899a2705a3fb1f340850164d3ba1\",\"effectDigest\":\"e0b148d0250019b5632399549f0cd5de011f208312d6809d49b5f74b8745c9aa\",\"outcome\":\"applied\",\"publicationId\":\"cff3996c1b60b3419afcffe1f1ddbbc1da70c49ec7b3ef272bac693a6e6b45b0\",\"resolutionId\":null,\"sequence\":1},{\"digest\":\"4677637ddd3e6974e11bdef4ee835b737eca85967d921ad21abfb056b1b95387\",\"effectDigest\":\"51daf7337274e8ffafc4c84a01c9d0f5f8e344ba8a82c137e42a0afd43b3f66a\",\"outcome\":\"applied\",\"publicationId\":\"cff3996c1b60b3419afcffe1f1ddbbc1da70c49ec7b3ef272bac693a6e6b45b0\",\"resolutionId\":null,\"sequence\":2}]",
+  "ranges_json": "[[1,2]]",
+  "replica_id": "36aa4dab3e8118d225f1d6a1821eb4b3"
+}
